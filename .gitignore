@@ -1,0 +1,17 @@
+/.settings/  
+/target/  
+  
+*.apk  
+*.ap_  
+  
+*.dex  
+  
+*.class  
+*.jar  
+  
+bin/  
+gen/  
+  
+.classpath  
+.project  
+.DS_Store  
